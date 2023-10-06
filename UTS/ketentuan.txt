@@ -1,0 +1,12 @@
+angka di kalkulator mengikuti nim anggota
+
+010 - 01
+020 - 2
+002
+
+=> 0 1 2
+
+066, 054, 037
+034567
+
+* / + - =

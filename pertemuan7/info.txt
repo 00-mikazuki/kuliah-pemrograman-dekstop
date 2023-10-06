@@ -1,0 +1,5 @@
+C:\Users\Juan\AppData\Local\Programs\Python\Python311\Lib\site-packages\qt6_applications\Qt\bin
+
+uts
+submit zip project
+mingdep
